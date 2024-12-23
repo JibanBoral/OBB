@@ -261,9 +261,9 @@ then
 🙏OBBUnpack🙏
 else
 printf "\n"
-echo -e "${LIGHTRED}PUT THE OBB FILE INTO Download/obb"
+echo -e "${LIGHTRED}/storage/termux-home/OBB/output/"
 printf "\n"
-echo -e "LETAKKAN FILE OBB KEDALAM FOLDER Download/obb ${NOCOLOR}"
+echo -e "/storage/termux-home/OBB/output/ ${NOCOLOR}"
 printf "\n"
 modeoptions
 printf "\n"
@@ -326,7 +326,7 @@ programhead
       🙏OBBUnpack🙏
       else
       printf "\n"
-      echo -e "${NOCOLOR}PUT THE OBB FILE INTO Download/obb"
+      echo -e "${NOCOLOR}/storage/termux-home/OBB/output/"
       printf "\n"
    #  modeoptions
       printf "\n"
